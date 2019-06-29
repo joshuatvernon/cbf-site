@@ -7,6 +7,11 @@ export const GlobalStyle = createGlobalStyle`
   }
 `;
 
+export interface AppProps {
+  src: string;
+}
+
 export const AppContainer = styled.div`
   text-align: center;
+  background-image: url('${(props: AppProps) => props.src}');
 `;
