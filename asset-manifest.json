@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/cbf-site/static/js/main.f0d9d592.chunk.js",
+    "main.js.map": "/cbf-site/static/js/main.f0d9d592.chunk.js.map",
+    "runtime~main.js": "/cbf-site/static/js/runtime~main.d9b3b4d6.js",
+    "runtime~main.js.map": "/cbf-site/static/js/runtime~main.d9b3b4d6.js.map",
+    "static/js/2.081023aa.chunk.js": "/cbf-site/static/js/2.081023aa.chunk.js",
+    "static/js/2.081023aa.chunk.js.map": "/cbf-site/static/js/2.081023aa.chunk.js.map",
+    "index.html": "/cbf-site/index.html",
+    "precache-manifest.45d9b746e79452f2ab6894b560b278f2.js": "/cbf-site/precache-manifest.45d9b746e79452f2ab6894b560b278f2.js",
+    "service-worker.js": "/cbf-site/service-worker.js",
+    "static/media/demo.gif": "/cbf-site/static/media/demo.10a123c4.gif",
+    "static/media/leaves.png": "/cbf-site/static/media/leaves.ad628077.png",
+    "static/media/sloth.png": "/cbf-site/static/media/sloth.ca47ce7b.png",
+    "static/media/tick.svg": "/cbf-site/static/media/tick.4b93446c.svg"
+  }
+}
