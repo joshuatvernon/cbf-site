@@ -26,3 +26,9 @@ export const Image = styled.img`
 `;
 
 export const Description = styled.p``;
+
+export const Copyright = styled.p`
+  color: rgba(126, 126, 126, 0.6);
+  padding-bottom: 30px;
+  margin-bottom: 0;
+`;
