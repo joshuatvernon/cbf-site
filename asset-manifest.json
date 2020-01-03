@@ -1,17 +1,23 @@
 {
   "files": {
-    "main.js": "/cbf-site/static/js/main.11975bd9.chunk.js",
-    "main.js.map": "/cbf-site/static/js/main.11975bd9.chunk.js.map",
-    "runtime~main.js": "/cbf-site/static/js/runtime~main.d9b3b4d6.js",
-    "runtime~main.js.map": "/cbf-site/static/js/runtime~main.d9b3b4d6.js.map",
-    "static/js/2.5fc543b8.chunk.js": "/cbf-site/static/js/2.5fc543b8.chunk.js",
-    "static/js/2.5fc543b8.chunk.js.map": "/cbf-site/static/js/2.5fc543b8.chunk.js.map",
+    "main.js": "/cbf-site/static/js/main.d3f1880a.chunk.js",
+    "main.js.map": "/cbf-site/static/js/main.d3f1880a.chunk.js.map",
+    "runtime-main.js": "/cbf-site/static/js/runtime-main.e61ec694.js",
+    "runtime-main.js.map": "/cbf-site/static/js/runtime-main.e61ec694.js.map",
+    "static/js/2.31509378.chunk.js": "/cbf-site/static/js/2.31509378.chunk.js",
+    "static/js/2.31509378.chunk.js.map": "/cbf-site/static/js/2.31509378.chunk.js.map",
     "index.html": "/cbf-site/index.html",
-    "precache-manifest.8930fd777b2942fd52097911d249d5d9.js": "/cbf-site/precache-manifest.8930fd777b2942fd52097911d249d5d9.js",
+    "precache-manifest.6acedcdc9b352be6d9f16a88553f7dc6.js": "/cbf-site/precache-manifest.6acedcdc9b352be6d9f16a88553f7dc6.js",
     "service-worker.js": "/cbf-site/service-worker.js",
+    "static/js/2.31509378.chunk.js.LICENSE": "/cbf-site/static/js/2.31509378.chunk.js.LICENSE",
     "static/media/demo.gif": "/cbf-site/static/media/demo.10a123c4.gif",
     "static/media/leaves.png": "/cbf-site/static/media/leaves.ad628077.png",
     "static/media/sloth.png": "/cbf-site/static/media/sloth.ca47ce7b.png",
     "static/media/tick.svg": "/cbf-site/static/media/tick.4b93446c.svg"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e61ec694.js",
+    "static/js/2.31509378.chunk.js",
+    "static/js/main.d3f1880a.chunk.js"
+  ]
 }

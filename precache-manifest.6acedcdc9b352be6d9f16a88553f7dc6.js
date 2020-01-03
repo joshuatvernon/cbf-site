@@ -1,19 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e677bf8486a01698b2d8ad82ee0ec7be",
+    "revision": "fe8b5b7bd5a9388b7c61e63a53cbd709",
     "url": "/cbf-site/index.html"
   },
   {
-    "revision": "0a373b42475f4adbbfd4",
-    "url": "/cbf-site/static/js/2.5fc543b8.chunk.js"
+    "revision": "d4a3ce2969ebe5699698",
+    "url": "/cbf-site/static/js/2.31509378.chunk.js"
   },
   {
-    "revision": "065f0eaaeff27591c835",
-    "url": "/cbf-site/static/js/main.11975bd9.chunk.js"
+    "revision": "880a560bf93e841afa57d69a99f32ca3",
+    "url": "/cbf-site/static/js/2.31509378.chunk.js.LICENSE"
   },
   {
-    "revision": "226d7c86ff3d6c20e68c",
-    "url": "/cbf-site/static/js/runtime~main.d9b3b4d6.js"
+    "revision": "f878e149bc2defdd2fbb",
+    "url": "/cbf-site/static/js/main.d3f1880a.chunk.js"
+  },
+  {
+    "revision": "19b6d87b4d78da28528d",
+    "url": "/cbf-site/static/js/runtime-main.e61ec694.js"
   },
   {
     "revision": "10a123c462e601575ec23b5a2246339f",
