@@ -20,6 +20,7 @@
     "react-github-btn": "^1.0.5",
     "react-github-corner": "^2.3.0",
     "react-scripts": "^3.3.0",
+    "serialize-javascript": "^2.1.2",
     "source-map-explorer": "^2.0.1",
     "styled-components": "^4.3.2",
     "tslint": "^5.18.0",
